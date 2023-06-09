@@ -1,0 +1,25 @@
+package problams;
+
+public class Area {
+	public int length;
+	public int breadth;
+	
+	public void setDim(int l,int b) {
+		this.length=l;
+		this.breadth=b;
+		
+	}
+	
+	public int getArea(){
+		
+		return this.length*this.breadth;
+	}
+	
+
+	public static void main(String[] args) {
+		Area Obj=new Area();
+		Obj.setDim(10, 20);
+		System.out.println(Obj.getArea());
+	}
+
+}

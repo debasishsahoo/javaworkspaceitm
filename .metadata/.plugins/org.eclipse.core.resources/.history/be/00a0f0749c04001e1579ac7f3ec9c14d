@@ -1,0 +1,10 @@
+package IF_Area;
+import java.util.Scanner;
+public class Quadratic_Equations {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

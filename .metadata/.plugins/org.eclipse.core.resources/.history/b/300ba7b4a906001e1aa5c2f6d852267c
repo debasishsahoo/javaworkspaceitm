@@ -1,0 +1,15 @@
+package Inheritance.multilevel;
+
+public class AddressArea {
+	public int House_No;
+	public String House_Street;
+	public String LandMark;
+	public String City;
+	public String State;
+	public int Zip;
+	
+	
+
+	
+
+}

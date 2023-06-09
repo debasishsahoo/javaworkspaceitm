@@ -1,0 +1,10 @@
+package loop_area;
+
+public class Tables_in_Stock {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,13 @@
+package constructorarea;
+
+public class Hello {
+	String name;
+	   Hello(){
+	      this.name = "BeginnersBook.com";
+	   }
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

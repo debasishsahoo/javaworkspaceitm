@@ -1,0 +1,12 @@
+package constructorarea;
+
+public class TestJavaBean {
+
+	public static void main(String[] args) {
+		JavaBean s = new JavaBean(); 
+	    s.setName("Debasish"); 
+	    System.out.println(s.getName()); 
+
+	}
+
+}

@@ -1,0 +1,17 @@
+package Inheritance;
+
+public class Teacher {
+
+	public static void main(String[] args) {
+		//fields of parent class
+		  String designation = "Teacher";
+		  String collegeName = "Beginnersbook";
+
+		  //method of parent class
+		  void does(){
+		    System.out.println("Teaching");
+		  }
+
+	}
+
+}

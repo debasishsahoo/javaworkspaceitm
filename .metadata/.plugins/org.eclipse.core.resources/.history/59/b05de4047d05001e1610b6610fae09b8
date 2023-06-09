@@ -1,0 +1,14 @@
+package constructorarea;
+
+public class Hello {
+	String name;
+	
+	   Hello(){
+	      this.name = "Debasish Sahoo";
+	   }
+	public static void main(String[] args) {
+		  SimpleConstructor obj = new SimpleConstructor();
+	      System.out.println(obj.name);
+	}
+
+}

@@ -1,0 +1,15 @@
+package Inheritance.multilevel;
+
+public class StudentArea {
+	
+	public int id;
+	public String Name;
+	public int Age;
+	public AddressArea Address;
+
+	public static void main(String[] args) {
+		StudentArea sa=new StudentArea();
+
+	}
+
+}
