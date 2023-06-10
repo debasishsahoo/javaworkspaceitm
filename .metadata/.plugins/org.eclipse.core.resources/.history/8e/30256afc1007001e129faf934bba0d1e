@@ -1,0 +1,5 @@
+package access_specifier.multilevelinheritance;
+
+public class GrandParent {
+
+}

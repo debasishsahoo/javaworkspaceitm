@@ -6,8 +6,9 @@
 		<item key="wholeword" value="true"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="Chaning"/>
+		<item key="selection" value="GrandParent"/>
 		<list key="findhistory">
+			<item value="Multilevel_GrandParent"/>
 			<item value="package Inheritance;"/>
 			<item value="package constructorarea;"/>
 			<item value="package problams;"/>
@@ -15,6 +16,7 @@
 			<item value="Example"/>
 		</list>
 		<list key="replacehistory">
+			<item value="GrandParent"/>
 			<item value="Chaning"/>
 			<item value="AllExample"/>
 			<item value="ParameterizedConstructor"/>

@@ -1,0 +1,37 @@
+package Inheritance.has_a;
+
+public class StudentArea {
+	
+	public int id;
+	public String Name;
+	public int Age;
+	public AddressArea Address;
+	
+	public StudentArea(int i,String n,int a,AddressArea add) {
+		this.id=i;
+		this.Name=n;
+		this.Age=a;
+		this.Address=add;
+		
+	}
+
+	public static void main(String[] args) {
+		AddressArea AddressObj1=new AddressArea(11,"School Row","Bhowanipur","Kolkata","WB",700025);
+		
+		AddressArea AddressObj2=new AddressArea(53,"DG Road","Bhowanipur","Kolkata","WB",700025);
+		
+		
+		StudentArea StudentObj1=new StudentArea(100,"Debasish",32, AddressObj1);
+		
+		StudentArea StudentObj2=new StudentArea(101,"Debasish Sahoo",36, AddressObj2);
+		
+		System.out.println(StudentObj1.Address.House_No);
+		System.out.println(StudentObj1.Address.House_Street);
+		System.out.println(StudentObj1.Address.LandMark);
+		System.out.println(StudentObj1.Address.City);
+		System.out.println(StudentObj1.Address.State);
+		System.out.println(StudentObj1.Address.Zip);
+		
+	}
+
+}

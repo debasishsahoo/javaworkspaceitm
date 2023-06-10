@@ -1,0 +1,14 @@
+package access_specifier.singleinheritance;
+
+public class Child extends Parent{
+	public void View()
+	{
+		System.out.println("INSIDE CHILD View() METHOD" );
+		//System.out.println("Private - "+ x);//Can't Access Parent PRIVATE MEMBER 
+		System.out.println("Can't Access Parent PRIVATE MEMBER");
+		System.out.println("Default - "+ y);
+		System.out.println("Protected - "+ z);
+		System.out.println("Public - "+ k);
+		System.out.println();
+	}
+}
