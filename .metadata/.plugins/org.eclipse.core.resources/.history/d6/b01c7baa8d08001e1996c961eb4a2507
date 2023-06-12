@@ -1,0 +1,12 @@
+package staticArea;
+
+public class StaticClass {
+
+	static class VipUsers {
+
+	    public void displayVipUsers() {
+	      System.out.println("Welcome Vip User");
+	    }
+	  }
+
+}

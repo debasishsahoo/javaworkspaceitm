@@ -1,0 +1,18 @@
+package staticArea;
+
+public class StaticDataInsert {
+
+	static String studentName;
+	  static int age;
+
+	  public static void displayStudentDetails() {
+	    Class2.studentName = "Dev";
+	    Class2.age = 22;
+	    System.out.println("Student Name : " + studentName + " Age : " + age);
+	  }
+
+	  public static void main(String args[]) {
+	    Class2.displayStudentDetails();
+	  }
+
+}

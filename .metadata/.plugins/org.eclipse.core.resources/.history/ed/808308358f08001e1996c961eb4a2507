@@ -1,0 +1,23 @@
+package staticArea;
+
+public class MethodOverload {
+
+	public static void Display() {
+	    System.out.println("Display() method without parameter called");
+	  }
+
+	  public static void Display(String name) {
+	    System.out.println("Display() method with parameter called : " + name);
+	  }
+
+	  public void Display(int a) {
+	    System.out.println("Non static Display() method called");
+	  }
+
+	  public static void main(String args[]) {
+	    OverloadExample.Display();
+	    OverloadExample.Display("Dev");
+	    OverloadExample.Display(2);
+	  }
+
+}

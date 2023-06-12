@@ -8,6 +8,9 @@
 		<item key="isRegEx" value="false"/>
 		<item key="selection" value="GrandParent"/>
 		<list key="findhistory">
+			<item value="package polymorphism.RuleOfOverRide;"/>
+			<item value="package polymorphism;"/>
+			<item value="package staticArea;"/>
 			<item value="Multilevel_GrandParent"/>
 			<item value="package Inheritance;"/>
 			<item value="package constructorarea;"/>

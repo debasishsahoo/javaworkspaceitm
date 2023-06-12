@@ -1,0 +1,40 @@
+package staticArea;
+
+public class StaticCalling {
+	// String studentName;
+	// int age;
+
+	static String studentName;
+	static int age;
+
+	public String getStudentName() {
+		return studentName;
+	}
+
+	public void setStudentName(String studentName) {
+		this.studentName = studentName;
+	}
+
+	public int getAge() {
+		return age;
+	}
+
+	public void setAge(int age) {
+		this.age = age;
+	}
+
+	public void Display() {
+		System.out.println("Student Name : " + studentName + " Age : " + age);
+	}
+
+	public static void main(String args[]) {
+		StaticCalling s1 = new StaticCalling();
+		s1.setStudentName("Debasish");
+		s1.setAge(22);
+
+		StaticCalling s2 = new StaticCalling();
+
+		s1.Display();
+		s2.Display();
+	}
+}
