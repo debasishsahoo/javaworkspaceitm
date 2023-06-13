@@ -1,0 +1,12 @@
+package finalArea.Classes;
+
+public final class FinalClass {
+
+	int a = 20;
+
+	  public static void main(String[] args) {
+	    FClass f = new FClass();
+	    System.out.println(f.a);
+	  }
+
+}

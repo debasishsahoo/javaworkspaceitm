@@ -1,0 +1,19 @@
+package finalArea.initialization;
+
+public class Main {
+	// Blank final variable
+	  final int a;
+	  static final int b;
+	  final String c;
+	
+	
+	
+	
+	
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

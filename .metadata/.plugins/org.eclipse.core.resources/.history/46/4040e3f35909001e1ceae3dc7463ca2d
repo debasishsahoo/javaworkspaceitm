@@ -1,0 +1,21 @@
+package finalArea.Classes;
+
+final class Parent {
+
+	  public final void Display1() {
+	    System.out.println("Display1() method of parent class");
+	  }
+
+	  public final void Display2() {
+	    System.out.println("Display2() method of parent class");
+	  }
+	}
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

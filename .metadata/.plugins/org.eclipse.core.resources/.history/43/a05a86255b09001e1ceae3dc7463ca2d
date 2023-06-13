@@ -1,0 +1,10 @@
+package finalArea.Classes;
+
+public class FinalInterfaceClass {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

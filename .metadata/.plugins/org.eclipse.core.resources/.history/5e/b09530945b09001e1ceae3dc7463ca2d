@@ -1,0 +1,26 @@
+package finalArea.initialization;
+
+public class Main {
+	// Blank final variable
+	final int a;
+	static final int b;
+	final String c;
+	// Instance Initialization Block
+	{
+		a = 5;
+	}
+
+	// Static Initialization Block
+	static {
+		b = 10;
+	}
+	
+	Main(){
+		c="Debasish";
+	}
+
+	public static void main(String[] args) {
+
+	}
+
+}

@@ -1,0 +1,13 @@
+package finalArea.Classes;
+
+public final interface FInterface {
+	  public int add(int a, int b);
+	}
+public class FinalInterfaceClass {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

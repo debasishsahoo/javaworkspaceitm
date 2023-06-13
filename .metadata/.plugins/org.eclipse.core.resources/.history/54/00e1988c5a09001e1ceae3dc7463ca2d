@@ -1,0 +1,5 @@
+package finalArea.Classes;
+
+public final interface FInterface {
+
+}
