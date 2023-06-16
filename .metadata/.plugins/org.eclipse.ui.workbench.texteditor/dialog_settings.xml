@@ -6,8 +6,15 @@
 		<item key="wholeword" value="true"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="GrandParent"/>
+		<item key="selection" value="hmap2"/>
 		<list key="findhistory">
+			<item value="hmap"/>
+			<item value="map"/>
+			<item value="package mainthread;"/>
+			<item value="Thread2"/>
+			<item value="Thread1"/>
+			<item value="ComputerScTeacher obj = new ComputerScTeacher();"/>
+			<item value="package interfaceArea;"/>
 			<item value="package polymorphism.RuleOfOverRide;"/>
 			<item value="package polymorphism;"/>
 			<item value="package staticArea;"/>
@@ -16,9 +23,12 @@
 			<item value="package constructorarea;"/>
 			<item value="package problams;"/>
 			<item value="Employee"/>
-			<item value="Example"/>
 		</list>
 		<list key="replacehistory">
+			<item value="hmap2"/>
+			<item value="cmap"/>
+			<item value="Thread20"/>
+			<item value="Thread10"/>
 			<item value="GrandParent"/>
 			<item value="Chaning"/>
 			<item value="AllExample"/>
@@ -26,8 +36,8 @@
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="762"/>
-		<item key="DIALOG_Y_ORIGIN" value="217"/>
+		<item key="DIALOG_X_ORIGIN" value="990"/>
+		<item key="DIALOG_Y_ORIGIN" value="193"/>
 		<item key="DIALOG_WIDTH" value="414"/>
 		<item key="DIALOG_HEIGHT" value="454"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>

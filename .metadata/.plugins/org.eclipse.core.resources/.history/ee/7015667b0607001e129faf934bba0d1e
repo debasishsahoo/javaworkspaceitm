@@ -1,5 +1,0 @@
-package Inheritance.has_a.Aggregation;
-
-public class Country {
-
-}

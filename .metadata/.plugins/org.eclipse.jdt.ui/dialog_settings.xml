@@ -40,7 +40,7 @@
 		<item key="updateSimilarElementsMatchStrategy" value="1"/>
 	</section>
 	<section name="JavadocWizardDialog">
-		<item key="DIALOG_X_ORIGIN" value="439"/>
+		<item key="DIALOG_X_ORIGIN" value="229"/>
 		<item key="DIALOG_Y_ORIGIN" value="56"/>
 		<item key="DIALOG_WIDTH" value="1060"/>
 		<item key="DIALOG_HEIGHT" value="695"/>
@@ -63,13 +63,29 @@
 		<item key="nonavbar" value="false"/>
 		<item key="openinbrowser" value="false"/>
 		<item key="source" value="11"/>
-		<item key="antpath" value="D:\Devlopment\ITM\javaworkspace\OOPS\javadoc.xml"/>
-		<item key="destdir" value="D:\Devlopment\ITM\javaworkspace\OOPS\doc"/>
+		<item key="antpath" value="D:\Devlopment\ITM\javaworkspace\ThreadPrograming\javadoc.xml"/>
+		<item key="destdir" value="D:\Devlopment\ITM\javaworkspace\ThreadPrograming\doc"/>
+		<item key="doctitle" value="dEBASISH sAHOO 16/06/23"/>
 		<section name="projects">
+			<section name="ThreadPrograming">
+				<item key="href" value=""/>
+				<item key="destdir" value="D:\Devlopment\ITM\javaworkspace\ThreadPrograming\doc"/>
+				<item key="antpath" value="D:\Devlopment\ITM\javaworkspace\ThreadPrograming\javadoc.xml"/>
+			</section>
+			<section name="Array_Java">
+				<item key="href" value=""/>
+				<item key="destdir" value="D:\Devlopment\ITM\javaworkspace\Array_Java\doc"/>
+				<item key="antpath" value="D:\Devlopment\ITM\javaworkspace\Array_Java\javadoc.xml"/>
+			</section>
 			<section name="OOPS">
 				<item key="href" value=""/>
 				<item key="destdir" value="D:\Devlopment\ITM\javaworkspace\OOPS\doc"/>
 				<item key="antpath" value="D:\Devlopment\ITM\javaworkspace\OOPS\javadoc.xml"/>
+			</section>
+			<section name="Conditional_Statement">
+				<item key="href" value=""/>
+				<item key="destdir" value="D:\Devlopment\ITM\javaworkspace\Conditional_Statement\doc"/>
+				<item key="antpath" value="D:\Devlopment\ITM\javaworkspace\Conditional_Statement\javadoc.xml"/>
 			</section>
 		</section>
 	</section>
