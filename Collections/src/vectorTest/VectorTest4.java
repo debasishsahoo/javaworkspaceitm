@@ -4,6 +4,8 @@ public class VectorTest4
 {
 public static void main(String[] args)
 {
+	
+	
    Vector<String> vec = new Vector<String>();
 // Check vector is empty or not.
    boolean check = vec.isEmpty();
@@ -18,7 +20,6 @@ public static void main(String[] args)
 
    boolean check1 = vec.isEmpty();
    System.out.println("Vector is empty: " +check1);
-
 // Replace element oxygen with helium.
    vec.setElementAt("Helium", 1);
    vec.set(2, "Lithium");

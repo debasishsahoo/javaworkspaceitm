@@ -18,6 +18,14 @@ public static void main(String[] args)
    s.add("Blue");
    s.add("Yellow");
    s.add("Green");
+   
+   
+   
+   
+   
+   
+   
+   
  if(s.isEmpty())
  {
   System.out.println("Set is empty.");
@@ -36,5 +44,14 @@ public static void main(String[] args)
 // Get the total number of set elements.
    int size = s.size();
    System.out.println("Total number of elements: " +size);
+   
+   
+   
+   
+   
+   
+   
+   
+   
   }
 }

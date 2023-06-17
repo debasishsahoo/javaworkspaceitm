@@ -20,10 +20,8 @@ public static void main(String[] args)
    list.add(10);
    list.add(20);
    list.add(30);
-
    System.out.println("Original order of List Elements");
    System.out.println(list);
-
 // Creating a hash set object of type Integer.
    Set<Integer> s = new HashSet<Integer>(list);
    System.out.println("Unodered List Elements after removing duplicates.");

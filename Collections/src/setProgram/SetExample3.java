@@ -20,13 +20,10 @@ public static void main(String[] args)
    boolean search = s.contains('A'); // Returns false because A is not present in the set.
 
    System.out.println("Is Element A present in set: " +search);
-   if(s.contains('K'))
-   {
-     System.out.println("K is present in set.");
-   }
-   else {
-     System.out.println("K is not present in set.");
-   }
+	/*
+	 * if(s.contains('K')) { System.out.println("K is present in set."); } else {
+	 * System.out.println("K is not present in set."); }
+	 */
    int hashcode = s.hashCode();
    System.out.println("HashCode value: " +hashcode);
  }

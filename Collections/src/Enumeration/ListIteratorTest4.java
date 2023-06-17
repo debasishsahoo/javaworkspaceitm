@@ -14,12 +14,10 @@ public static void main(String[] args)
   list.add("C"); // Adding element C at index 2.
 
   System.out.println("List: " + list);
-
 // Create the list iterator object by calling listIterator() method.
 // | in the comments indicates the position of iterator.
    ListIterator<String> iterator = list.listIterator(); // |ABC
    System.out.println("List Iterator in Forward Direction:");
-
 // Call hasNext() method to check elements are present in forward direction.
    boolean elementsPresent = iterator.hasNext(); // Return true.
    System.out.println(elementsPresent);
@@ -36,6 +34,7 @@ public static void main(String[] args)
    String elementC = iterator.next(); // ABC|
    System.out.println("IndexC = " +indexC +" "+ "Element: " +elementC);
 
+  
    boolean elementsPresent2 = iterator.hasNext(); // Return false because the iterator is at the end of the collection.
    System.out.println(elementsPresent2);
    String element = iterator.next(); // It will throw NoSuchElementException because there is not next element.

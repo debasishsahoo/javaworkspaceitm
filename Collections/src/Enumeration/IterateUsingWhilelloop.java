@@ -16,6 +16,7 @@ public static void main(String[] args)
 
 // Iteration of ArrayList using while loop.
    System.out.println("Iteration using while loop");
+   
    int i = 0;
    while(al.size() > i)
    {
@@ -23,5 +24,8 @@ public static void main(String[] args)
      System.out.println(itr);
      i++;
    }
+   
+   
+   
   }
  }

@@ -30,4 +30,16 @@ public static void main(String[] args)
   v.remove(6);
   System.out.println("Elements after removing: " +v);
  }
+
+
+
+
+
+
+
+
+
+
+
+
 }
