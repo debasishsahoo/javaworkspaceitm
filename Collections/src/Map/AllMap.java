@@ -1,4 +1,4 @@
-package Set;
+package Map;
 
 import java.util.Collection;
 import java.util.HashMap;
@@ -9,6 +9,9 @@ public class AllMap {
 	public static void main(String[] args) {
 // Create a map of generic type.
 		Map<Integer, String> map = new HashMap<>();
+		
+		
+		
 
 // Checking map is empty or not.
 		boolean isEmpty = map.isEmpty();
@@ -24,6 +27,7 @@ public class AllMap {
 		System.out.println("Entries in Map: " + map);
 		int size = map.size();
 		System.out.println("No. of entries in Map: " + size);
+
 
 // Create another map.
 		Map<Integer, String> map2 = new HashMap<>();
@@ -44,7 +48,8 @@ public class AllMap {
 		System.out.println("Entries in Map after removing Pink: " + map);
 		map.clear();
 		System.out.println(map);
-
+		
+		
 		Map<String, String> FMap = new HashMap<>();
 
 		FMap.put("A", "Apple");
@@ -54,6 +59,7 @@ public class AllMap {
 		FMap.put("E", "Elephant");
 		System.out.println("Orignal Entries in Map: " + FMap);
 
+		
 		// Replacing a specified value for a specified key.
 		FMap.replace("E", "Element");
 		System.out.println("Updated Entries in Map after replacing: " + FMap);

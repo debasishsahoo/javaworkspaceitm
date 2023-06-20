@@ -6,7 +6,7 @@ public static void main(String[] args)
 {
 // Create Set object of type Integer.
    Set<Integer> s = new HashSet<Integer>();
-// Adding even numbers betwen 10 to 30 as elements.
+// Adding even numbers between 10 to 30 as elements.
    for(int i = 10; i <= 30; i++)
    {
      if(i % 2 == 0)

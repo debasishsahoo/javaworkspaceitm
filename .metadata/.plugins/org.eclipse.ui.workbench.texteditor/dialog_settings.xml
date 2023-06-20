@@ -8,6 +8,8 @@
 		<item key="isRegEx" value="false"/>
 		<item key="selection" value="hmap2"/>
 		<list key="findhistory">
+			<item value="package LinkedHashMap;"/>
+			<item value="package Deque;"/>
 			<item value="hmap"/>
 			<item value="map"/>
 			<item value="package mainthread;"/>
@@ -21,8 +23,6 @@
 			<item value="Multilevel_GrandParent"/>
 			<item value="package Inheritance;"/>
 			<item value="package constructorarea;"/>
-			<item value="package problams;"/>
-			<item value="Employee"/>
 		</list>
 		<list key="replacehistory">
 			<item value="hmap2"/>
@@ -36,7 +36,7 @@
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="990"/>
+		<item key="DIALOG_X_ORIGIN" value="875"/>
 		<item key="DIALOG_Y_ORIGIN" value="193"/>
 		<item key="DIALOG_WIDTH" value="414"/>
 		<item key="DIALOG_HEIGHT" value="454"/>

@@ -8,8 +8,8 @@ public class HashSetExample4 {
 		Set<String> pCountry = new HashSet<String>();
 
 // Check that HashSet is empty or not.
-		System.out.println("Is popularCountries set empty? : " + pCountry.isEmpty());
-		System.out.println("Number of countries in HashSet before adding: " + pCountry.size());
+System.out.println("Is popularCountries set empty? : " + pCountry.isEmpty());
+System.out.println("Number of countries in HashSet before adding: " + pCountry.size());
 
 // Adding elements to hash set.
 		pCountry.add("INDIA");
@@ -18,11 +18,11 @@ public class HashSetExample4 {
 		pCountry.add("FRANCE");
 
 // Find size of HashSet.
-		System.out.println("Number of countries in HashSet after adding: " + pCountry.size());
+System.out.println("Number of countries in HashSet after adding: " + pCountry.size());
 
 		Set<String> set = new HashSet<String>();
 		System.out.println("Is set empty? : " + set.isEmpty());
-		System.out.println("Number of elements in HashSet before adding: " + set.size());
+System.out.println("Number of elements in HashSet before adding: " + set.size());
 
 		set.add("Dollar");
 		set.add("Indian Rupee");
@@ -31,8 +31,7 @@ public class HashSetExample4 {
 
 		System.out.println("List of Elements in set");
 		System.out.println(set);
-		System.out.println("Number of elements in the HashSet after adding: " + set.size());
-
+System.out.println("Number of elements in the HashSet after adding: " + set.size());
 		// Call contains() method to check an element exists in set or not.
 		if (set.contains("Dollar")) {
 			System.out.println("Does Element 'Dollar' exist in set?");

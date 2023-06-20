@@ -13,7 +13,7 @@ public class TreeSetEx2 {
 		ts.add("Australia");
 		ts.add("New zealand");
 		ts.add("Switzerland");
-
+		
 // Checking for a specific element in set.
 		boolean element = ts.contains("USA");
 		System.out.println("Is USA in TreeSet: " + element);
@@ -25,3 +25,29 @@ public class TreeSetEx2 {
 		System.out.println("Elements in tree set: " + ts);
 	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

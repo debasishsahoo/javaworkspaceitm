@@ -5,7 +5,6 @@ public static void main(String[] args)
 {
 // Create a HashSet object.
    HashSet<String> set = new HashSet<String>(); // An empty hash set.
-
 // Adding elements to HashSet.
    set.add("First");
    set.add("Second");

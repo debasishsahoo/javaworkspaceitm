@@ -1,4 +1,4 @@
-package Set;
+package Map;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -21,6 +21,13 @@ public static void main(String[] args)
 // Iterating over values of a map using values() method.  
    for (String name : map.values()) 
    System.out.println("Name: " + name); 
+   
+   map.forEach((r,n) -> System.out.println("Roll: "+ r + ", Name: " + n));
+   
+   
+   
+   
+   
  }
 }
 

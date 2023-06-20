@@ -1,4 +1,4 @@
-package Set;
+package Map;
 
 import java.util.HashMap;
 import java.util.Iterator;
@@ -27,6 +27,9 @@ public class IterationTest1 {
 			Object key = itr.next();
 			System.out.println(key);
 		}
+		
+		
+		
 // keySet is a method that is used to get view of keys of a map
 		Iterator<String> itr2 = map.keySet().iterator();
 		System.out.println("Iterating Keys of Map");

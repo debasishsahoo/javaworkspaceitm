@@ -1,5 +1,6 @@
 package TreeSet;
 
+import java.util.HashSet;
 import java.util.Set;
 import java.util.TreeSet;
 public class TreeSetEx1 {
@@ -26,5 +27,16 @@ public static void main(String[] args)
    System.out.println("Sorted TreeSet: " +ts);
    int size2 = ts.size();
    System.out.println("Size of TreeSet after adding elements: " +size2);
+   
+   
+   
+// Creating a set object.
+   Set<String> set= new HashSet<>();
+
+// Adding elements to set.
+   set.add("Banana");
+   set.add("Orange");
+   set.add("Apple");
+   set.add("Mango");
   }
 }
