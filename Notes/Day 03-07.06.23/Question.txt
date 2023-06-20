@@ -1,0 +1,101 @@
+Write a Java program to solve quadratic equations (use if, else if and else).
+
+
+Write a Java program that takes three numbers from the user and prints the greatest number.
+
+
+Write a Java program to find the number of days in a month.
+
+
+Write a Java program that requires the user to enter a single character from the alphabet. Print Vowel or Consonant, depending on user input. If the user input is not a letter (between a and z or A and Z), or is a string of length > 1, print an error message.
+
+
+Write a Java program to display the multiplication table of a given integer.
+
+
+Write a Java program that displays the sum of n odd natural numbers.
+
+
+Write a Java program that accepts three numbers and prints "All numbers are equal" if all three numbers are equal, "All numbers are different" if all three numbers are different and "Neither all are equal or different" otherwise.
+
+
+
+
+If the number of calls made is between 100 and 150 then, for the first 100 its the same 200Rs while, for the next 50 calls, each call costs 0.6Rs. So, the formula used is:
+
+totalbill=totalbill+((n-100)*0.6);
+
+Else, if the number of calls (n) is between 150 to 200 then, till 150 calls its the same as above while, for the next 50 calls i.e., 150th to 200th call, it costs 0.5Rs per call. So, the calculation is as follows:
+
+totalbill=totalbill+((n-100)*0.6+(n-150)*0.5);
+
+Else if the number of calls (n) is greater than 200 then, for all the calls after 200th call, it costs 0.4Rs per call. So, the calculation is as follows:
+
+
+
+
+
+totalbill=200+((n-100)*0.6+(n-150)*0.5+(n-200)*0.4);
+
+453
+
+
+
+
+Taxable Income	Rate (%)
+First $20,000	0
+Next $20,000	10
+Next $20,000	20
+The remaining	30
+
+$85000, the income tax payable is $20000*0% + $20000*10% + $20000*20% + $25000*30%.
+
+
+
+
+
+Employee's Age	Employee Rate (%)	Employer Rate (%)
+55 and below	    20	                    17
+above 55 to 60	    13	                    13
+above 60 to 65	    7.5	                     9
+above 65	          5	                    7.5
+
+Enter the monthly salary: $3000
+Enter the age: 30
+The employee's contribution is: $600.00
+The employer's contribution is: $510.00
+The total contribution is: $1110.00
+
+
+
+
+
+
+
+1) Java program to print number of elements in an array
+
+2) Java program to remove duplicate elements in an array
+
+3) Java program to left rotate the elements of an array
+4) Java program to right rotate the elements of an array
+
+
+
+
+
+
+
+
+
+5) Java program to find smallest number in an array
+6) Java program to find largest element of an array
+7) Java program to count the frequency of each element in an array
+8) Java program to print the duplicate elements of an array
+9) Java program to copy all elements from one array to another array
+10) Java program to print the elements of an array present on odd position
+11) Java program to print the elements of an array present on even position
+12) Java program to add two matrix using multidimensional arrays
+13) Java program to check whether two matrices are equal
+14) Java program to reverse an array
+15) Java program to sort an array
+16) Sorting char array in Java
