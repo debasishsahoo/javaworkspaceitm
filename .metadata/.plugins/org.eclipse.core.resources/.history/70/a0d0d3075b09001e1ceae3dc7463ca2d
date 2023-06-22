@@ -1,5 +1,0 @@
-package finalArea.Classes;
-
-public final interface FInterface {
-	 public int add(int a, int b);
-}
