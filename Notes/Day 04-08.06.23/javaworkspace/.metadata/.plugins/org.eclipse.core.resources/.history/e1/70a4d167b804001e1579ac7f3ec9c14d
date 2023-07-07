@@ -1,0 +1,10 @@
+package single_dimensional;
+
+public class SDA {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

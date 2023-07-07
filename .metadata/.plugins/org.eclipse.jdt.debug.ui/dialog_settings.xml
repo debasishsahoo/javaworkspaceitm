@@ -2,4 +2,10 @@
 <section name="Workbench">
 	<section name="expressionHistory">
 	</section>
+	<section name="org.eclipse.jdt.internal.debug.ui.ExpressionInformationControlCreator$ExpressionInformationControl">
+		<item key="WIDTH" value="809"/>
+		<item key="HEIGHT" value="256"/>
+		<item key="SashWeightTree" value="827"/>
+		<item key="SashWeightDetails" value="172"/>
+	</section>
 </section>

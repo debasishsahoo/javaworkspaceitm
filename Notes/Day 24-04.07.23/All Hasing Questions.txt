@@ -1,0 +1,75 @@
+    Find pair with given sum in an array
+    Check if subarray with 0 sum is exists or not
+    Print all sub-arrays with 0 sum
+    Find longest subsequence formed by consecutive integers
+    Find duplicates within given range k in an array
+    Count distinct absolute values in a sorted array
+    Find subarray having given sum in given array of integers
+    Find largest sub-array formed by consecutive integers
+    Find duplicate element in a limited range array
+    Find maximum length sub-array having equal number of 0’s and 1's
+    Find maximum length sub-array having given sum
+    Find majority element in an array (Boyer–Moore majority vote algorithm)
+    Custom Sort | Sort array based on another array
+    Custom Sort | Sort elements by their frequency and Index
+    Efficiently Sort an Array with many Duplicated Values
+    Calculate frequency of all elements present in an array of specified range in linear time and using constant space
+    Replace each element of an array by its corresponding rank
+    Group elements of an array based on their first occurrence
+    Find all Symmetric Pairs in an Array of Pairs
+    Construct the longest palindrome by shuffling or deleting characters from a string
+    Find count of distinct elements in every sub-array of size k
+    Print all sub-arrays of an array having distinct elements
+    Find Minimum Index of Repeating Element in an Array
+    Find Index of Maximum Occurring Element with Equal Probability
+    Check if an Array is Formed by Consecutive Integers
+    Find two non-overlapping pairs having same sum in an array
+    Find subarrays with given sum in an array
+    3-Partition Problem
+    Find two odd occurring elements in an array without using any extra space
+    Find pairs with given difference k in an array
+    Find odd occurring element in an array in single traversal
+    Determine if two integers are equal without using comparison and arithmetic operators
+    4 sum problem | Quadruplets with given sum
+    Find Triplet with given sum in an array
+    Find the surpasser count for each element of an array
+    Construct a binary tree from inorder and level order sequence
+    Construct a binary tree from inorder and postorder traversals
+    Construct a binary tree from inorder and preorder traversal
+    Clone a binary tree with random pointers
+    Efficiently print all nodes between two given levels in a binary tree
+    Find preorder traversal of a binary tree from its inorder and postorder sequence
+    Print Right View of a Binary Tree
+    Find postorder traversal of a binary tree from its inorder and preorder sequence
+    Iteratively print leaf to root path for every leaf node in a binary tree
+    Find a pair with given sum in a BST
+    Find maximum width of given binary tree
+    Build Binary Tree from given Parent array
+    Find the Diagonal Sum of given Binary Tree
+    Print Diagonal Traversal of Binary Tree
+    Perform vertical traversal of a binary tree
+    Find Vertical Sum in a given Binary Tree
+    Find ancestors of given node in a Binary Tree
+    Print Top View of Binary Tree
+    Print Bottom View of Binary Tree
+    Print Left View of Binary Tree
+    Print all nodes of a perfect binary tree in specific order
+    Reverse Level Order Traversal of Binary Tree
+    Spiral Order Traversal of Binary Tree
+    Level Order Traversal of Binary Tree
+    Construct a Binary Tree from Ancestor Matrix
+    Find Probability that a Person is Alive after Taking N steps on an Island
+    Link nodes present in each level of a binary tree in the form of a linked list
+    Convert a binary tree into a doubly linked list in spiral order
+    Remove duplicates from a linked list in single traversal
+    Detect Cycle in a linked list (Floyd’s Cycle Detection Algorithm)
+    Clone a Linked List with Random Pointers
+    Find all common elements present in every row of given matrix
+    Generate list of possible words from a character matrix
+    Find common elements present in all rows of a matrix
+    Find Duplicate Rows in a Binary Matrix
+    Find all words from given list that follows same order of characters as given pattern
+    Find all possible combinations by replacing given digits with characters of the corresponding list
+    Isomorphic Strings
+    Determine if two strings are anagram or not
+    Check if repeated subsequence is present in the string or not

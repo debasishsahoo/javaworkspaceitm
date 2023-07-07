@@ -1,0 +1,10 @@
+package Switch_Case_Area;
+
+public class Days_in_a_Month {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

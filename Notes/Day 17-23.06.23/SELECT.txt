@@ -1,0 +1,57 @@
+Write a Oracle SQL query to get the details of all employees and also display the specific information of all employees. 
+
+
+A:select first_name,last_name,job_id,salary from employees;
+
+Write a Oracle SQL command to display the employee name, job and annual salary for all employees 
+
+A:select first_name, last_name, job_id, 12*(salary+nvl(commission_pct,0)) as "Annual Salary" from employees;
+
+Write a Oracle SQL query to get the total number of employees working in the company. 
+
+A:select count(*) from employees;
+
+Write a Oracle SQL query to get the total salary being paid to all employees. 
+A:select sum(salary) from employees;
+
+Write a Oracle SQL query to get the maximum and minimum salary from the employees table. 
+A:select max(salary), min(salary) from employees;
+
+Write a Oracle SQL query to display the name of the employees in order to earning from lowest salary to highest.
+A:select first_name, last_name, salary from employees order by salary;
+
+Write a Oracle SQL query to display the name of the employees in order to earning from highest salary to lowest. 
+A:select first_name, last_name, salary from employees order by salary desc;
+
+Write a Oracle SQL query to display the name of the employees in order to alphabetically ascending order. 
+
+A:select first_name, last_name from employees order by first_name;
+
+
+
+
+
+Write a Oracle SQL query to display employee id, name, department no, salary of the employees. The output first based on the employee name in ascending order, for unique name department will come in ascending order, and for same name and department the highest salary will come first.
+A:select employee_id, first_name, department_id, salary from employees order by first_name asc, department_id asc, salary desc; 
+
+
+Write a Oracle SQL query to display the name and their annual salary. The result should contain those employees first who earning the highest salary.
+A:select first_name, salary*12 from employees order by salary desc;
+
+Write a Oracle SQL query to display department id and total number of employees working in each department. 
+A:select department_id, count(department_id) from employees group by department_id;
+
+ Write a Oracle SQL query to display the designation (job id) and total number of employees working in each designation. 
+
+A:select job_id, count(job_id) from employees group by job_id;
+
+
+ Write a Oracle SQL query to display the department number and total salary for each department. 
+A:select department_id, sum(salary) from employees group by department_id;
+
+ Write a Oracle SQL query to display the department number and maximum salary for each department.
+A:select department_id, max(salary) from employees group by department_id;
+
+ Write a Oracle SQL query to display the designations (job id) and total salary allotted for each designation from the company. 
+
+ A:select job_id, sum(salary) from employees group by job_id

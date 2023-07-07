@@ -1,0 +1,26 @@
+package problams;
+
+public class Date {
+	private int day;
+	private int month;
+	private int year;
+	
+	
+	
+	public int getYear() {
+		return this.year;
+	};
+	
+	
+	
+
+	public static void main(String[] args) {
+		Date obj=new Date();
+		
+		System.out.println(obj.day);
+		System.out.println(obj.month);
+		System.out.println(obj.year);
+
+	}
+
+}

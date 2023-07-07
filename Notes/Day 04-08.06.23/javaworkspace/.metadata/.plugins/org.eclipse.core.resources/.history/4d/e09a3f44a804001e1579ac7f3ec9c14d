@@ -1,0 +1,10 @@
+package loop_area;
+
+public class Table_Booking {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

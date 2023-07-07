@@ -1,0 +1,951 @@
+!SESSION 2023-06-05 02:19:55.950 -----------------------------------------------
+eclipse.buildId=4.27.0.20230309-1200
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-05 02:19:57.748
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-05 02:20:53.168
+!MESSAGE Logback config file: D:\Devlopment\ITM\javaworkspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.100.20230106-1511.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-06-05 02:21:04.698
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-06-05 02:21:04.698
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-06-05 02:21:07.901
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\debas'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-06-05 22:37:33.843 -----------------------------------------------
+eclipse.buildId=4.27.0.20230309-1200
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-05 22:37:34.848
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-05 22:37:39.102
+!MESSAGE Logback config file: D:\Devlopment\ITM\javaworkspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.100.20230106-1511.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-06-05 22:37:41.573
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-06-05 22:37:41.573
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-06-05 22:37:43.741
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\debas'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-06-05 22:54:21.848 -----------------------------------------------
+eclipse.buildId=4.27.0.20230309-1200
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-05 22:54:22.851
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-05 22:54:27.190
+!MESSAGE Logback config file: D:\Devlopment\ITM\javaworkspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.100.20230106-1511.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-06-05 22:54:29.466
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-06-05 22:54:29.466
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-06-05 22:54:31.404
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\debas'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:53.433
+!MESSAGE Classpath changed for project: S06L01 - Methods
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.125
+!MESSAGE Classpath changed for project: S03L02 - Hello world
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.128
+!MESSAGE Classpath changed for project: S03L04 - Understanding variables
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.133
+!MESSAGE Classpath changed for project: S03L05 - Primitive Data Types
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.136
+!MESSAGE Classpath changed for project: S03L06 - Primitive Data Types (floating point datatype)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.141
+!MESSAGE Classpath changed for project: S03L07 - Primitive Data Types (boolean and char)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.145
+!MESSAGE Classpath changed for project: S03L08 - String basics
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.162
+!MESSAGE Classpath changed for project: S03L09 - Type casting
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.168
+!MESSAGE Classpath changed for project: S04L01 - Arithmetic operators
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.172
+!MESSAGE Classpath changed for project: S04L02 - Making decision with operators - Part 1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.177
+!MESSAGE Classpath changed for project: S04L03 - Making decision with operators - Part 2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.183
+!MESSAGE Classpath changed for project: S04L04 - Making decision with operators - Part 3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.187
+!MESSAGE Classpath changed for project: S04L05 - Ternary operator
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.194
+!MESSAGE Classpath changed for project: S04L06 - Assignment operators
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.198
+!MESSAGE Classpath changed for project: S04L07 - Making decision with if else
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.202
+!MESSAGE Classpath changed for project: S05L01 - Switch case
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.205
+!MESSAGE Classpath changed for project: S05L02 - Switch case part 2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.208
+!MESSAGE Classpath changed for project: S05L03 - Switch case part 3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.211
+!MESSAGE Classpath changed for project: S05L04 - For loop
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.215
+!MESSAGE Classpath changed for project: S05L05 - For loop (Number is prime or not)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.218
+!MESSAGE Classpath changed for project: S05L06 - While loop
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.222
+!MESSAGE Classpath changed for project: S05L07 - Do while loop
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.226
+!MESSAGE Classpath changed for project: S05L08 - Loops Revisited
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.235
+!MESSAGE Classpath changed for project: S05L09 - Break and continue
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.240
+!MESSAGE Classpath changed for project: S05L10 - Nested loops
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.243
+!MESSAGE Classpath changed for project: S05L11 - Nested loops - exercise
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.261
+!MESSAGE Classpath changed for project: S06L02 - Methods parameters & return type
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.266
+!MESSAGE Classpath changed for project: S06L03 - Methods exercise
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.269
+!MESSAGE Classpath changed for project: S06L04 - Method overloading
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.272
+!MESSAGE Classpath changed for project: S06L05 - Method overloading - Part 2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.276
+!MESSAGE Classpath changed for project: S08L01 - Classes - Part 1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.279
+!MESSAGE Classpath changed for project: S08L02 - Classes - Part 2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.282
+!MESSAGE Classpath changed for project: S08L03 - Classes - Part 3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.286
+!MESSAGE Classpath changed for project: S08L04 - Classes - Part 4
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.289
+!MESSAGE Classpath changed for project: S08L05 - Constructors Introduction
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.293
+!MESSAGE Classpath changed for project: S08L06 - Default constructor
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.297
+!MESSAGE Classpath changed for project: S08L07 - Usage of constructors
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.300
+!MESSAGE Classpath changed for project: S08L09 - Working with inheritace - Part 1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.303
+!MESSAGE Classpath changed for project: S08L10 - Working with inheritace - Part 2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.306
+!MESSAGE Classpath changed for project: S08L11 - Working with inheritace - Part 3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.309
+!MESSAGE Classpath changed for project: S08L15 - Composition Setting up
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.311
+!MESSAGE Classpath changed for project: S08L16 -Working with composition
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.314
+!MESSAGE Classpath changed for project: S08L17 - Adding functionality
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.318
+!MESSAGE Classpath changed for project: S08L18 - Encapsulation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.321
+!MESSAGE Classpath changed for project: S08L19 - Encapsulation Part 2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.324
+!MESSAGE Classpath changed for project: S08L20 - Polymorphism - Part1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:55.328
+!MESSAGE Classpath changed for project: S08L21 - Polymorphism - Part2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:56.313
+!MESSAGE Classpath changed for project: S08L11 - Working with inheritace - Part 3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:56.317
+!MESSAGE Classpath changed for project: S08L12 - Working with inheritance - Challenge
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-05 22:55:56.321
+!MESSAGE Classpath changed for project: S08L13 - Working with inheritance - Part 5
+!SESSION 2023-06-05 22:56:19.632 -----------------------------------------------
+eclipse.buildId=4.27.0.20230309-1200
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data file:/D:/Devlopment/ITM/javaworkspace/ -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-05 22:56:20.617
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-05 22:56:21.805
+!MESSAGE Logback config file: D:\Devlopment\ITM\javaworkspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.100.20230106-1511.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-06-05 22:56:23.829
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-06-05 22:56:23.829
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-06-05 22:56:26.382
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\debas'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-06-06 02:43:21.770 -----------------------------------------------
+eclipse.buildId=4.27.0.20230309-1200
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-06 02:43:22.759
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-06 02:43:33.351
+!MESSAGE Logback config file: D:\Devlopment\ITM\javaworkspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.100.20230106-1511.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-06-06 02:43:35.505
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-06-06 02:43:35.505
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-06-06 02:43:38.051
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\debas'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.010
+!MESSAGE Classpath changed for project: S03L02 - Hello world
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.015
+!MESSAGE Classpath changed for project: S03L04 - Understanding variables
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.019
+!MESSAGE Classpath changed for project: S03L05 - Primitive Data Types
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.021
+!MESSAGE Classpath changed for project: S03L06 - Primitive Data Types (floating point datatype)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.024
+!MESSAGE Classpath changed for project: S03L07 - Primitive Data Types (boolean and char)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.026
+!MESSAGE Classpath changed for project: S03L08 - String basics
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.029
+!MESSAGE Classpath changed for project: S03L09 - Type casting
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.032
+!MESSAGE Classpath changed for project: S04L01 - Arithmetic operators
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.035
+!MESSAGE Classpath changed for project: S04L02 - Making decision with operators - Part 1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.038
+!MESSAGE Classpath changed for project: S04L03 - Making decision with operators - Part 2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.041
+!MESSAGE Classpath changed for project: S04L04 - Making decision with operators - Part 3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.044
+!MESSAGE Classpath changed for project: S04L05 - Ternary operator
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.047
+!MESSAGE Classpath changed for project: S04L06 - Assignment operators
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.050
+!MESSAGE Classpath changed for project: S04L07 - Making decision with if else
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.052
+!MESSAGE Classpath changed for project: S05L01 - Switch case
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.057
+!MESSAGE Classpath changed for project: S05L02 - Switch case part 2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.061
+!MESSAGE Classpath changed for project: S05L03 - Switch case part 3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.064
+!MESSAGE Classpath changed for project: S05L04 - For loop
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.068
+!MESSAGE Classpath changed for project: S05L05 - For loop (Number is prime or not)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.071
+!MESSAGE Classpath changed for project: S05L06 - While loop
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.073
+!MESSAGE Classpath changed for project: S05L07 - Do while loop
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.077
+!MESSAGE Classpath changed for project: S05L08 - Loops Revisited
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.079
+!MESSAGE Classpath changed for project: S05L09 - Break and continue
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.081
+!MESSAGE Classpath changed for project: S05L10 - Nested loops
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.084
+!MESSAGE Classpath changed for project: S05L11 - Nested loops - exercise
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.093
+!MESSAGE Classpath changed for project: S06L01 - Methods
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.096
+!MESSAGE Classpath changed for project: S06L02 - Methods parameters & return type
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.099
+!MESSAGE Classpath changed for project: S06L03 - Methods exercise
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.103
+!MESSAGE Classpath changed for project: S06L04 - Method overloading
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.105
+!MESSAGE Classpath changed for project: S06L05 - Method overloading - Part 2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.108
+!MESSAGE Classpath changed for project: S08L01 - Classes - Part 1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.112
+!MESSAGE Classpath changed for project: S08L02 - Classes - Part 2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.114
+!MESSAGE Classpath changed for project: S08L03 - Classes - Part 3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.117
+!MESSAGE Classpath changed for project: S08L04 - Classes - Part 4
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.120
+!MESSAGE Classpath changed for project: S08L05 - Constructors Introduction
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.123
+!MESSAGE Classpath changed for project: S08L06 - Default constructor
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.126
+!MESSAGE Classpath changed for project: S08L07 - Usage of constructors
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.129
+!MESSAGE Classpath changed for project: S08L09 - Working with inheritace - Part 1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.132
+!MESSAGE Classpath changed for project: S08L10 - Working with inheritace - Part 2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.135
+!MESSAGE Classpath changed for project: S08L11 - Working with inheritace - Part 3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.139
+!MESSAGE Classpath changed for project: S08L12 - Working with inheritance - Challenge
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.141
+!MESSAGE Classpath changed for project: S08L13 - Working with inheritance - Part 5
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.144
+!MESSAGE Classpath changed for project: S08L15 - Composition Setting up
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.147
+!MESSAGE Classpath changed for project: S08L16 -Working with composition
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.152
+!MESSAGE Classpath changed for project: S08L17 - Adding functionality
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.154
+!MESSAGE Classpath changed for project: S08L18 - Encapsulation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.158
+!MESSAGE Classpath changed for project: S08L19 - Encapsulation Part 2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.161
+!MESSAGE Classpath changed for project: S08L20 - Polymorphism - Part1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:43:57.164
+!MESSAGE Classpath changed for project: S08L21 - Polymorphism - Part2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:44:52.934
+!MESSAGE Classpath changed for project: HelloWorld
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:45:31.958
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-06-06 02:45:31.977
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 21240
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:46:08.708
+!MESSAGE Classpath changed for project: HelloWorld
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 02:56:42.185
+!MESSAGE Classpath changed for project: helloworld
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 03:03:54.617
+!MESSAGE Classpath changed for project: helloworld
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-06-06 03:03:54.619
+!MESSAGE Failed to refresh Code Minings for editor.
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): helloworld does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:574)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2504)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2444)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:2487)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$9(STS4LanguageClientImpl.java:428)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.lambda$0(ReusableClasspathListenerHandler.java:76)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.run(ReusableClasspathListenerHandler.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2023-06-06 03:03:54.620
+!MESSAGE helloworld does not exist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 03:04:21.109
+!MESSAGE Classpath changed for project: ItmJava
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 03:04:22.755
+!MESSAGE Classpath changed for project: ItmJava
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 03:04:33.357
+!MESSAGE Classpath changed for project: ItmJava
+!SESSION 2023-06-06 10:54:44.524 -----------------------------------------------
+eclipse.buildId=4.27.0.20230309-1200
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-06 10:54:45.458
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-06 10:54:50.514
+!MESSAGE Logback config file: D:\Devlopment\ITM\javaworkspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.100.20230106-1511.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-06-06 10:54:52.343
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-06-06 10:54:52.343
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 10:54:54.435
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-06-06 10:54:54.464
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 18172
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-06-06 10:54:55.791
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\debas'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 10:56:09.248
+!MESSAGE Classpath changed for project: ItmJava
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-06-06 10:56:09.262
+!MESSAGE Failed to refresh Code Minings for editor.
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): ItmJava does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:574)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2504)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2444)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:2487)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$9(STS4LanguageClientImpl.java:428)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.lambda$0(ReusableClasspathListenerHandler.java:76)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.run(ReusableClasspathListenerHandler.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2023-06-06 10:56:09.263
+!MESSAGE ItmJava does not exist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 11:01:52.805
+!MESSAGE Classpath changed for project: HelloWorld
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 11:46:40.454
+!MESSAGE Classpath changed for project: HelloWorld
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-06-06 11:46:40.456
+!MESSAGE Failed to refresh Code Minings for editor.
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): HelloWorld does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:574)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2504)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2444)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:2487)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$9(STS4LanguageClientImpl.java:428)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.lambda$0(ReusableClasspathListenerHandler.java:76)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.run(ReusableClasspathListenerHandler.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2023-06-06 11:46:40.456
+!MESSAGE HelloWorld does not exist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 11:48:19.224
+!MESSAGE Classpath changed for project: OperatorsJava
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 11:53:38.437
+!MESSAGE Classpath changed for project: OperatorsJava
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-06-06 11:53:38.440
+!MESSAGE Failed to refresh Code Minings for editor.
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): OperatorsJava does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:574)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2504)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2444)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:2487)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$9(STS4LanguageClientImpl.java:428)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.lambda$0(ReusableClasspathListenerHandler.java:76)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.run(ReusableClasspathListenerHandler.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2023-06-06 11:53:38.441
+!MESSAGE OperatorsJava does not exist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-06 11:54:03.469
+!MESSAGE Classpath changed for project: OpertorsJava
+
+!ENTRY org.eclipse.lsp4e 2 0 2023-06-06 15:32:52.380
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SESSION 2023-06-07 00:26:49.691 -----------------------------------------------
+eclipse.buildId=4.27.0.20230309-1200
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-07 00:26:50.802
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-06-07 00:26:56.867
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-07 00:26:57.407
+!MESSAGE Logback config file: D:\Devlopment\ITM\javaworkspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.100.20230106-1511.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-06-07 00:26:59.881
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-06-07 00:26:59.881
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-07 00:27:02.343
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-06-07 00:27:02.375
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 8268
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-06-07 00:27:03.135
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\debas'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-07 00:27:26.548
+!MESSAGE Classpath changed for project: OpertorsJava
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-07 00:28:30.873
+!MESSAGE Classpath changed for project: IF-Programing
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-07 00:29:08.133
+!MESSAGE Classpath changed for project: Conditional_Statement
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-07 00:29:08.137
+!MESSAGE Classpath changed for project: IF-Programing
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-07 03:47:52.748
+!MESSAGE Classpath changed for project: Array_Java
+
+!ENTRY org.eclipse.ui 4 4 2023-06-07 03:47:56.720
+!MESSAGE Could not retrieve EHandlerService or ICommandService from context evaluation context fororg.eclipse.wst.xml.ui.disable.grammar.constraints
+
+!ENTRY org.eclipse.ui 4 4 2023-06-07 03:47:56.723
+!MESSAGE Could not retrieve EHandlerService or ICommandService from context evaluation context fororg.eclipse.wst.xml.ui.reload.dependencies
+
+!ENTRY org.eclipse.ui 4 4 2023-06-07 03:47:56.725
+!MESSAGE Could not retrieve EHandlerService or ICommandService from context evaluation context fororg.eclipse.wst.xml.ui.disable.grammar.constraints
+
+!ENTRY org.eclipse.ui 4 4 2023-06-07 03:47:56.728
+!MESSAGE Could not retrieve EHandlerService or ICommandService from context evaluation context fororg.eclipse.wst.xml.ui.reload.dependencies
+
+!ENTRY org.eclipse.ui 4 4 2023-06-07 03:47:56.732
+!MESSAGE Could not retrieve EHandlerService or ICommandService from context evaluation context fororg.eclipse.wst.xml.ui.disable.grammar.constraints
+
+!ENTRY org.eclipse.ui 4 4 2023-06-07 03:47:56.735
+!MESSAGE Could not retrieve EHandlerService or ICommandService from context evaluation context fororg.eclipse.wst.xml.ui.reload.dependencies
+
+!ENTRY org.eclipse.ui 4 4 2023-06-07 03:47:56.796
+!MESSAGE Could not retrieve EHandlerService or ICommandService from context evaluation context fororg.eclipse.ui.edit.text.toggleBlockSelectionMode
+
+!ENTRY org.eclipse.ui 4 4 2023-06-07 03:47:56.799
+!MESSAGE Could not retrieve EHandlerService or ICommandService from context evaluation context fororg.eclipse.ui.edit.text.toMultiSelection
+
+!ENTRY org.eclipse.ui 4 4 2023-06-07 03:47:56.801
+!MESSAGE Could not retrieve EHandlerService or ICommandService from context evaluation context fororg.eclipse.jst.jsp.ui.refactor.rename
+
+!ENTRY org.eclipse.ui 4 4 2023-06-07 03:47:56.803
+!MESSAGE Could not retrieve EHandlerService or ICommandService from context evaluation context fororg.eclipse.jst.jsp.ui.refactor.move
+!SESSION 2023-06-07 10:07:07.174 -----------------------------------------------
+eclipse.buildId=4.27.0.20230309-1200
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-07 10:07:09.112
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-07 10:07:13.971
+!MESSAGE Logback config file: D:\Devlopment\ITM\javaworkspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.100.20230106-1511.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-06-07 10:07:27.125
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-06-07 10:07:27.125
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-06-07 10:07:28.619
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\debas'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-07 10:17:10.039
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-06-07 10:17:10.056
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 17940
+
+!ENTRY org.eclipse.lsp4e 2 0 2023-06-07 10:17:12.215
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.jface 2 0 2023-06-07 10:45:05.399
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-06-07 10:45:05.399
+!MESSAGE A conflict occurred for CTRL+R:
+Binding(CTRL+R,
+	ParameterizedCommand(Command(org.eclipse.debug.ui.commands.RunToLine,Run to Line,
+		Resume and break when execution reaches the current line,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.debug.ui.commands.RunToLine"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.debug.ui.debugging,,,system)
+Binding(CTRL+R,
+	ParameterizedCommand(Command(org.springframework.ide.eclipse.boot.restart.commands.restart,Trigger Restart,
+		Restart Spring Boot Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		WorkbenchHandlerServiceHandler("org.springframework.ide.eclipse.boot.restart.commands.restart"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.debug.ui.console,,,system)
+!SESSION 2023-06-08 02:45:11.804 -----------------------------------------------
+eclipse.buildId=4.27.0.20230309-1200
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-08 02:45:12.845
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-08 02:45:16.295
+!MESSAGE Logback config file: D:\Devlopment\ITM\javaworkspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.100.20230106-1511.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-06-08 02:45:18.733
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-06-08 02:45:18.733
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-08 02:45:20.755
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-06-08 02:45:20.791
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 22616
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-06-08 02:45:21.824
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\debas'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-08 02:45:46.464
+!MESSAGE Classpath changed for project: OOPS
+!SESSION 2023-06-08 10:16:48.554 -----------------------------------------------
+eclipse.buildId=4.27.0.20230309-1200
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-08 10:16:49.674
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-08 10:16:53.169
+!MESSAGE Logback config file: D:\Devlopment\ITM\javaworkspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.100.20230106-1511.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-06-08 10:16:55.803
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-06-08 10:16:55.803
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-08 10:16:57.955
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-06-08 10:16:57.989
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 11500
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-06-08 10:16:59.202
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\debas'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 4 0 2023-06-08 14:16:27.563
+!MESSAGE NullPointerException: Cannot invoke "org.springsource.ide.eclipse.commons.livexp.core.LiveSetVariable.getValue()" because "this.this$0.applications" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springsource.ide.eclipse.commons.livexp.core.LiveSetVariable.getValue()" because "this.this$0.applications" is null
+	at org.springframework.ide.eclipse.boot.dash.model.LocalBootDashModel$2.bundleChanged(LocalBootDashModel.java:157)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.dispatchEvent(BundleContextImpl.java:949)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)

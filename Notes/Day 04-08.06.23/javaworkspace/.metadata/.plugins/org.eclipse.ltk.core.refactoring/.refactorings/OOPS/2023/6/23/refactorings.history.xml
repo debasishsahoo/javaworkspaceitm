@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;constructorarea.Hello&apos; to &apos;SimpleConstructor&apos;&#x0D;&#x0A;- Original project: &apos;OOPS&apos;&#x0D;&#x0A;- Original element: &apos;constructorarea.Hello&apos;&#x0D;&#x0A;- Renamed element: &apos;constructorarea.SimpleConstructor&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Hello&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;constructorarea{Hello.java[Hello" matchStrategy="1" name="SimpleConstructor" qualified="false" references="true" similarDeclarations="false" stamp="1686174500645" textual="false" version="1.0"/>
+</session>

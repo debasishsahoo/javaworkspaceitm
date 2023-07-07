@@ -1,0 +1,24 @@
+package InstansofOP;
+
+public class Car extends Vehicle {
+
+	public static void main(String[] args) {
+		
+		Vehicle a = new Vehicle();
+		
+		Car c=new Car();
+		
+		Vehicle v=new Car();
+		
+	
+		
+		boolean result = a instanceof Vehicle;
+		System.out.println( result);
+		result = c instanceof Vehicle;
+		System.out.println( result);
+		result = v instanceof Vehicle;
+		System.out.println( result);
+
+	}
+
+}

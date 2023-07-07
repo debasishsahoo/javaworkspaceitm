@@ -6,8 +6,16 @@
 		<item key="wholeword" value="true"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="hmap2"/>
+		<item key="selection" value="filePath"/>
 		<list key="findhistory">
+			<item value="package recursion;"/>
+			<item value="filePath"/>
+			<item value="package Hashing;"/>
+			<item value="deletenth"/>
+			<item value="deleteLast"/>
+			<item value="deleteInitial"/>
+			<item value="applycountSort"/>
+			<item value="oun"/>
 			<item value="package LinkedHashMap;"/>
 			<item value="package Deque;"/>
 			<item value="hmap"/>
@@ -15,16 +23,12 @@
 			<item value="package mainthread;"/>
 			<item value="Thread2"/>
 			<item value="Thread1"/>
-			<item value="ComputerScTeacher obj = new ComputerScTeacher();"/>
-			<item value="package interfaceArea;"/>
-			<item value="package polymorphism.RuleOfOverRide;"/>
-			<item value="package polymorphism;"/>
-			<item value="package staticArea;"/>
-			<item value="Multilevel_GrandParent"/>
-			<item value="package Inheritance;"/>
-			<item value="package constructorarea;"/>
 		</list>
 		<list key="replacehistory">
+			<item value="deleteNth"/>
+			<item value="delete_Last"/>
+			<item value="delete_Start"/>
+			<item value="CountSort"/>
 			<item value="hmap2"/>
 			<item value="cmap"/>
 			<item value="Thread20"/>

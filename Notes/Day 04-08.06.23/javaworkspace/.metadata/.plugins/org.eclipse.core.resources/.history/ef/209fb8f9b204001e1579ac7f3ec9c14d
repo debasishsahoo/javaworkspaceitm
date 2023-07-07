@@ -1,0 +1,10 @@
+package if_area;
+
+public class CalculateTelephoneBill {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
